@@ -16,7 +16,7 @@
   - Deep Dive: EHR Healthcare, TerramEarth, Mountkirk Games, Helicopter Racing League
   - Operations Suite (Logging, Monitoring, Trace)
 - **Week 4 (Apr 4 &ndash; Apr 10): PCA Exam Simulation & Review**
-  - Mock Exams via Exam Trainer Skill
+  - Mock Exams via coach skill
   - Targeted review of weak areas; take the PCA Exam.
 
 ## Phase 2: Professional Data Engineer (PDE) - 3 Weeks

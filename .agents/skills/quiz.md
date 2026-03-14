@@ -1,6 +1,6 @@
-# Question Creator Skill
+# quiz
 
-The **Question Creator Skill** generates high-fidelity, scenario-based questions to prepare the user for the actual GCP certification exams.
+The **quiz** skill is the generator for scenario-based multiple-choice questions aligned with specific exam domains.
 
 ## Core Functions
 

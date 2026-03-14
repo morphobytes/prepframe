@@ -1,6 +1,6 @@
-# Usecase Builder Skill
+# solve
 
-The **Usecase Builder Skill** helps the user internalize GCP services by placing them into realistic business and technical context.
+The **solve** skill translates abstract GCP services into practical "Problem/Solution" stories and diagrams.
 
 ## Core Functions
 

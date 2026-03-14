@@ -1,6 +1,6 @@
-# Exam Trainer Skill
+# coach
 
-The **Exam Trainer Skill** acts as a proctor for the mock exams, analyzing performance to guide future study sessions.
+The **coach** skill acts as the mock proctor that analyzes performance, identifies weak points, and adjusts the daily planner.
 
 ## Core Functions
 
