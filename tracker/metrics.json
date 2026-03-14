@@ -1,0 +1,24 @@
+{
+  "user": {
+    "intensity_hours_per_day": 2,
+    "current_level": "intermediate",
+    "targets": ["PCA", "PDE", "MLE"]
+  },
+  "progress": {
+    "total_days_planned": 84,
+    "completed_days": 0,
+    "pca": {
+      "status": "not_started",
+      "mock_scores": []
+    },
+    "pde": {
+      "status": "not_started",
+      "mock_scores": []
+    },
+    "mle": {
+      "status": "not_started",
+      "mock_scores": []
+    }
+  },
+  "weak_areas": []
+}
